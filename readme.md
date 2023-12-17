@@ -2,7 +2,7 @@
 <h2 align="center">Software developer from India</h2>
 
 <h3>Technologies I know  </h3>
- <p>Vanilla Js , React.Js , Redux , SCSS </p>
+ <p>Vanilla Js , React.Js , Redux </p>
  
 <h3>Currenlty Learning</h3>
 <p>Node.Js, Express, Mongoose, MongoDB</p>
